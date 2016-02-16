@@ -7,6 +7,7 @@ Distributed Systems are difficult to build and test for two main reasons: partia
 ## References
 * [The Verification of a Distributed System](http://queue.acm.org/detail.cfm?id=2889274)
 * [IronFleet: Proving Practical Distributed Systems Correct](http://research.microsoft.com/apps/pubs/default.aspx?id=255833)
+  * [Dafny](http://research.microsoft.com/en-us/projects/dafny/)
 * Lineage-Driven Fault Injection aka Molly
   * [Lineage-Driven Fault Injection](http://people.ucsc.edu/~palvaro/molly.pdf)
   * [Automated Failure Testing at Netflix](http://techblog.netflix.com/2016/01/automated-failure-testing.html)
