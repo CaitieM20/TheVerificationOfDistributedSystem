@@ -13,7 +13,7 @@ Distributed Systems are difficult to build and test for two main reasons: partia
  * [Haskell: Quick Check](https://hackage.haskell.org/package/QuickCheck)
  * [Erlang: Quick Check](http://www.quviq.com/products/erlang-quickcheck/)
  * [ScalaCheck](https://www.scalacheck.org/)
-Fault Injection
+* Fault Injection
  * [Jepsen](http://jepsen.io/)
  * [Netflix Simian Army](http://techblog.netflix.com/2011/07/netflix-simian-army.html)
 * [IronFleet: Proving Practical Distributed Systems Correct](http://research.microsoft.com/apps/pubs/default.aspx?id=255833)
