@@ -11,3 +11,4 @@
 * https://www.flickr.com/photos/leemt2/222443032/
 * https://www.flickr.com/photos/joemar/1573687605/
 * https://www.flickr.com/photos/leemt2/203359933/
+* https://www.flickr.com/photos/doc44/8287100528/in/photolist-dCiygA-dBGHVZ-5AcVxm-dCpjhQ-dyv3Fn-ddyLx4-au6zsk-9E6zPz-dA6itL-dEen9D-dymHsJ-dSNAUn-dzc3VM-dyv39K-ddyMUL-q9jQcL-dyY7Gn-dANxgh-dBgxtL-dyPqxd-dB9VbR-dyuZZp-dzYv6R-6d9ozc-iDdQ2e-isNKTU-dyw2oF-dBb6Di-aufP4G-dyQwfu-duqS3h-dyv2ya-dwYEev-hQ8LQW-GwAi6Y-dHKhAx-7mYLLB-4BJZe5-eQVZVA-dfnVr2-dCiTd8-dxxsgY-6UX11V-dzhz9f-dziB5q-6RLFTu-dyBAg5-dyw5zB-dAGVvM-dAXoz2
