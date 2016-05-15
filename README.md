@@ -15,7 +15,7 @@ Distributed Systems are difficult to build and test for two main reasons: partia
   * [Lineage-Driven Fault Injection](http://people.ucsc.edu/~palvaro/molly.pdf)
   * [Automated Failure Testing at Netflix](http://techblog.netflix.com/2016/01/automated-failure-testing.html)
   * [Netflix picks up Molly at University, scores harsh character assessment](http://www.theregister.co.uk/2016/02/01/netflix_tries_molly_in_quest_for_enhanced_fault_finding_perception/)
-* [Jepsen](https://aphyr.com/tags/Jepsen)
+* [Jepsen](http://jepsen.io/)
 * [Resilience Engineering: Learning to Embrace Failure](https://queue.acm.org/detail.cfm?id=2371297)
 
 ## Bio
