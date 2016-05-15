@@ -15,6 +15,8 @@ Distributed Systems are difficult to build and test for two main reasons: partia
  * [Other Quick Check Implementations](https://en.wikipedia.org/wiki/QuickCheck)
  * [ScalaCheck](https://www.scalacheck.org/)
  * [29 GIFs only ScalaCheck Witches will Understand](http://nerd.kelseyinnis.com/blog/2015/01/14/29-GIFs-only-scalacheck-witches-will-understand/)
+ * [Quick Checking Riak](https://skillsmatter.com/skillscasts/4505-quickchecking-riak)
+ * [Testing Eventual Consistency in Riak](https://www.youtube.com/watch?v=x9mW54GJpG0)
 * Fault Injection
  * [Jepsen](http://jepsen.io/)
  * [Netflix Simian Army](http://techblog.netflix.com/2011/07/netflix-simian-army.html)
