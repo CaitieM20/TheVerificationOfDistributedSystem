@@ -29,9 +29,9 @@ Distributed Systems are difficult to build and test for two main reasons: partia
  * [IronFleet: Proving Practical Distributed Systems Correct](http://research.microsoft.com/apps/pubs/default.aspx?id=255833)
    * [Dafny](http://research.microsoft.com/en-us/projects/dafny/)
  * Lineage-Driven Fault Injection aka Molly
-   * [Lineage-Driven Fault Injection](http://people.ucsc.edu/~palvaro/molly.pdf)
-   * [Automated Failure Testing at Netflix](http://techblog.netflix.com/2016/01/automated-failure-testing.html)
-   * [Netflix picks up Molly at University, scores harsh character assessment](http://www.theregister.co.uk/2016/02/01/netflix_tries_molly_in_quest_for_enhanced_fault_finding_perception/)
+    * [Lineage-Driven Fault Injection](http://people.ucsc.edu/~palvaro/molly.pdf)
+    * [Automated Failure Testing at Netflix](http://techblog.netflix.com/2016/01/automated-failure-testing.html)
+    * [Netflix picks up Molly at University, scores harsh character assessment](http://www.theregister.co.uk/2016/02/01/netflix_tries_molly_in_quest_for_enhanced_fault_finding_perception/)
  * [Towards Property Based Consistency Verification](http://www.eurecom.fr/fr/publication/4874/download/ds-publi-4874.pdf)
 
 
