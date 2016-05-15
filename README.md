@@ -9,7 +9,7 @@ Distributed Systems are difficult to build and test for two main reasons: partia
 * [Specifying Systems](http://research.microsoft.com/en-us/um/people/lamport/tla/book-02-08-08.pdf)
 * [Use of Formal Methods at Amazon Web Services](http://research.microsoft.com/en-us/um/people/lamport/tla/formal-methods-amazon.pdf)
 * [Simple Testing Can Prevent Most Critical Failures](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf)
-* Model Checkers
+* Property Based Testing
  * [Haskell: Quick Check](https://hackage.haskell.org/package/QuickCheck)
  * [Erlang: Quick Check](http://www.quviq.com/products/erlang-quickcheck/)
  * [Other Quick Check Implementations](https://en.wikipedia.org/wiki/QuickCheck)
@@ -22,8 +22,8 @@ Distributed Systems are difficult to build and test for two main reasons: partia
  * [Jepsen](http://jepsen.io/)
  * [Netflix Simian Army](http://techblog.netflix.com/2011/07/netflix-simian-army.html)
  * Game Days
-   * [Resilience Engineering: Learning to Embrace Failure](https://queue.acm.org/detail.cfm?id=2371297)
-   * [Game Day Exercises at Stripe: Learning from `kill-9`](https://stripe.com/blog/game-day-exercises-at-stripe)
+    * [Resilience Engineering: Learning to Embrace Failure](https://queue.acm.org/detail.cfm?id=2371297)
+    * [Game Day Exercises at Stripe: Learning from `kill-9`](https://stripe.com/blog/game-day-exercises-at-stripe)
 * Areas of Research
  * [Cause I'm Strong Enough: Reasoning about Consistency Choices in Distributed Systems](https://pages.lip6.fr/Marc.Shapiro/papers/CISE-POPL-2016.pdf) 
  * [IronFleet: Proving Practical Distributed Systems Correct](http://research.microsoft.com/apps/pubs/default.aspx?id=255833)
