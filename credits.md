@@ -16,3 +16,9 @@
 * https://www.flickr.com/photos/kookr/7056077277/
 * https://www.flickr.com/photos/omnia_mutantur/2468322428/in/photolist-4L7Ngf-bVWDFH-cSgeN1-asEyuf-axUKLP-brhFSE-cxTaWQ-aqBKGe-a9eJbP-kfksEJ-h5PkBA-asgFQ7-axjynd-FWnjB6-ddAV5G-ddASU4-9B2imo-5K73G-ddASVA-FU4Cb3-7Chmw3-Fwg8sd-FU69LQ-aym8cu-7ihaXW-F1VcMo-bVAFKn-cPz33A-FweM25-FU5YZq-FU4byb-FU4H4Q-FU4nh5-eJdVzG-apXPSV-e4jRMd-cxT8zu-5HzZ1c-ebfjTh-ddAT4q-ddATCJ-ddARUM-52fNs-hjCbb-dAz4Tu-6N8Zv-as3GF-6fnRjs-4u4QR1-ebfjYU
 * https://www.flickr.com/photos/44055945@N06/7224288232/
+* https://www.flickr.com/photos/vickisnature/6465872605/
+* https://www.flickr.com/photos/pinti1/15933819917/
+* https://www.flickr.com/photos/yokohamayomama/5778717345/
+* https://www.flickr.com/photos/dakiny/15079476520/
+* https://www.flickr.com/photos/dakiny/15079685280/
+* https://www.flickr.com/photos/vickisnature/4830596406/
