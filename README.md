@@ -22,6 +22,7 @@ Distributed Systems are difficult to build and test for two main reasons: partia
  * [Combining Model Checking and Testing](http://research.microsoft.com/pubs/200544/main.pdf)
  * [Testing AUTOSTAR Software with QuickCheck](http://ieeexplore.ieee.org/xpl/login.jsp?reload=true&tp=&arnumber=7107466&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7107466)
  * [Modeling Eventual Consistency Databases with QuickCheck](https://vimeo.com/23220830)
+ * [The Mysteries of Dropbox](https://vimeo.com/158002499)
 * Fault Injection
  * [Jepsen](http://jepsen.io/)
  * [Netflix Simian Army](http://techblog.netflix.com/2011/07/netflix-simian-army.html)
