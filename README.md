@@ -1,5 +1,5 @@
 # The Verification of a Distributed System
-Accompanying Repository for The Verification of a Distributed System Talk to be given at [GOTO Chicago 2016](http://gotocon.com/chicago-2016)
+Accompanying Repository for The Verification of a Distributed System Talk to be given at [GOTO Chicago 2016](http://gotocon.com/chicago-2016) [Slides](https://speakerdeck.com/caitiem20/the-verification-of-a-distributed-system)
 
 ## Abstract
 Distributed Systems are difficult to build and test for two main reasons: partial failure & asynchrony.  These two realities of distributed systems must be addressed to create a correct system, and often times the resulting systems have a high degree of complexity.  Because of this complexity, testing and verifying these systems is critically important.  In this talk we will discuss strategies for proving a system is correct, like formal methods, and less strenuous methods of testing which can help increase our confidence that our systems are doing the right thing.
