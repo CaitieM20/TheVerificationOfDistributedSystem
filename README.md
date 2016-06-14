@@ -1,5 +1,5 @@
 # The Verification of a Distributed System
-Accompanying Repository for The Verification of a Distributed System Talk to be given at [GOTO Chicago 2016](http://gotocon.com/chicago-2016): [[Slides](https://speakerdeck.com/caitiem20/the-verification-of-a-distributed-system)]
+Accompanying Repository for The Verification of a Distributed System Talk to be given at [GOTO Chicago 2016](http://gotocon.com/chicago-2016): [[Slides](https://speakerdeck.com/caitiem20/the-verification-of-a-distributed-system)] & [Qcon New York 2016](https://qconnewyork.com/ny2016/presentation/verification-distributed-system)
 
 ## Abstract
 Distributed Systems are difficult to build and test for two main reasons: partial failure & asynchrony.  These two realities of distributed systems must be addressed to create a correct system, and often times the resulting systems have a high degree of complexity.  Because of this complexity, testing and verifying these systems is critically important.  In this talk we will discuss strategies for proving a system is correct, like formal methods, and less strenuous methods of testing which can help increase our confidence that our systems are doing the right thing.
@@ -39,6 +39,8 @@ Distributed Systems are difficult to build and test for two main reasons: partia
     * [Automated Failure Testing at Netflix](http://techblog.netflix.com/2016/01/automated-failure-testing.html)
     * ["Monkeys in Lab Coats": Applied Failure Testing Research at Netflix](http://www.infoq.com/presentations/failure-test-research-netflix)
  * [Towards Property Based Consistency Verification](http://www.eurecom.fr/fr/publication/4874/download/ds-publi-4874.pdf)
+ * [Certified Causally Consistent Distributed Key Value Stores](http://people.csail.mit.edu/lesani/companion/popl16/POPL16.pdf)
+ * [Planning for Change in a Formal Verification of the Raft Consensus Protocol](https://homes.cs.washington.edu/~mernst/pubs/raft-proof-cpp2016.pdf)
 
 
 ## Bio
