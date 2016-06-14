@@ -34,6 +34,7 @@ Distributed Systems are difficult to build and test for two main reasons: partia
     * [The CISE Tool: Proving Weakly Consistent Applications Correct](https://hal.inria.fr/hal-01279495v1/document)
     * [CISE Tool Demo](https://www.youtube.com/watch?v=HJjWqNDh-GA)
     * [Github: Syncfree/CISE](https://github.com/SyncFree/CISE)
+    * [Syncfree CISE website](https://syncfree.lip6.fr/index.php/2-uncategorised/51-cise)
  * [IronFleet: Proving Practical Distributed Systems Correct](http://research.microsoft.com/apps/pubs/default.aspx?id=255833)
    * [Dafny](http://research.microsoft.com/en-us/projects/dafny/)
  * Lineage-Driven Fault Injection aka Molly
