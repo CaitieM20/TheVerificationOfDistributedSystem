@@ -42,6 +42,7 @@ Distributed Systems are difficult to build and test for two main reasons: partia
     * [Sigmod 2015 Slides](http://www.slideshare.net/palvaro/lineagedriven-fault-injection-sigmod15)
     * [Automated Failure Testing at Netflix](http://techblog.netflix.com/2016/01/automated-failure-testing.html)
     * ["Monkeys in Lab Coats": Applied Failure Testing Research at Netflix](http://www.infoq.com/presentations/failure-test-research-netflix)
+    * [Automating Failure Testing Research at Internet Scale](https://people.ucsc.edu/~palvaro/socc16.pdf)
  * [Towards Property Based Consistency Verification](http://www.eurecom.fr/fr/publication/4874/download/ds-publi-4874.pdf)
  * [Certified Causally Consistent Distributed Key Value Stores](http://people.csail.mit.edu/lesani/companion/popl16/POPL16.pdf)
  * [Planning for Change in a Formal Verification of the Raft Consensus Protocol](https://homes.cs.washington.edu/~mernst/pubs/raft-proof-cpp2016.pdf)
